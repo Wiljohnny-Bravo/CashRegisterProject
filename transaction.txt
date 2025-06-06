@@ -1,0 +1,14 @@
+Transaction Date: 2025-06-06T17:05:40.113376100
+Username: Zxcvb789
+Items: 
+- Cheese Burger x5 @ Php 55 each = Php 275
+- Orange Juice x3 @ Php 20 each = Php 60
+- Fried Chicken x4 @ Php 35 each = Php 140
+Total Amount: Php 475
+===============================================
+Transaction Date: 2025-06-06T17:06:13.571634900
+Username: Zxcvb789
+Items: 
+- Rice x5 @ Php 20 each = Php 100
+Total Amount: Php 100
+===============================================
