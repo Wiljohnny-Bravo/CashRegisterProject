@@ -7,8 +7,6 @@ import java.io.*;
 //=================================================LOGIN=================================================
 public class Main {
     static Scanner sc = new Scanner(System.in);
-//    static ArrayList <String> user = new ArrayList <>();
-//    static ArrayList <String> pass = new ArrayList<>();
     static ArrayList<String> product = new ArrayList<>();
     static ArrayList<Integer> quantity = new ArrayList<>();
     static ArrayList<Integer> price = new ArrayList<>();
@@ -87,8 +85,6 @@ public class Main {
                 System.out.println("Verification failed. Try again.");
             }
         }
-//        user.add(username);
-//        pass.add(password);
         try(BufferedWriter writer = new BufferedWriter(new FileWriter("users.txt", true))){
             writer.write((username + "," + password));
             writer.newLine();
